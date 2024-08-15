@@ -1,0 +1,31 @@
+Situation,Action,Count
+pass, kick a field goal,1339
+pass, kneel down,1339
+pass, run,1339
+pass, punt,1339
+pass, pass,1339
+run, punt,1152
+run, pass,1152
+run, kneel down,1152
+run, kick a field goal,1152
+run, run,1152
+kick a field goal, kick a field goal,612
+kick a field goal, run,612
+kick a field goal, punt,612
+kick a field goal, pass,612
+kick a field goal, kneel down,612
+punt, kick a field goal,411
+punt, punt,411
+punt, run,411
+punt, kneel down,411
+punt, pass,411
+Don't know / it depends, pass,130
+Don't know / it depends, punt,130
+Don't know / it depends, run,130
+Don't know / it depends, kick a field goal,130
+Don't know / it depends, kneel down,130
+kneel down, kneel down,86
+kneel down, run,86
+kneel down, punt,86
+kneel down, pass,86
+kneel down, kick a field goal,86
